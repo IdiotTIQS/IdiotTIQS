@@ -6,7 +6,7 @@
 ### <div align="center">I'm TIQS, a  Minecraft freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Distance](https://github.com/DistanceTeam)  
+- 🔭 I’m currently working in [DistanceTeam](https://github.com/DistanceTeam)  
   
 
 - 🌱 I’m currently learning C Language & java Language  
