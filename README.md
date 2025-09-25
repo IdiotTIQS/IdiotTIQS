@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
+<img src="https://img.shields.io/github/last-commit/IdiotTIQS/IdiotTIQS?style=for-the-badge" alt="Last Commit" height="30px">
 ### <div align="center">I'm TIQS, a  Minecraft freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
